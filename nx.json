@@ -33,5 +33,8 @@
       "default"
     ],
     "sharedGlobals": []
-  }
+  },
+  "plugins": [
+    "@nxrocks/nx-spring-boot"
+  ]
 }
